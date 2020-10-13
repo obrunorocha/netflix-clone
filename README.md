@@ -1,6 +1,8 @@
 # Netflix Clone
 Projeto do clone do Netflix feito em React
 
+![NetFlix Clone](https://raw.githubusercontent.com/obrunorocha/netflix-clone/main/capa.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
